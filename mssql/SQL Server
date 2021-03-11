@@ -1,0 +1,8 @@
+USE hangfire;
+
+CREATE TABLE testtable (
+    col1    INTEGER NOT NULL,
+    col2    VARCHAR
+);
+
+GO;

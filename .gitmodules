@@ -1,0 +1,6 @@
+[submodule "awesome-compose"]
+	path = awesome-compose
+	url = https://github.com/docker/awesome-compose.git
+[submodule "dotnet-docker-samples"]
+	path = dotnet-docker-samples
+	url = https://edskoviak.visualstudio.com/_git/dotnet-docker-samples
