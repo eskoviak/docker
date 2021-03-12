@@ -1,0 +1,454 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"dataset",
+				"dataset_death"
+			],
+			[
+				"months",
+				"months_fmt"
+			],
+			[
+				"confirme",
+				"confirmed_state"
+			],
+			[
+				"Com",
+				"ColumnDataReader"
+			],
+			[
+				"Col",
+				"ColumnDataReader"
+			],
+			[
+				"Sql",
+				"SqlConnection"
+			],
+			[
+				"P",
+				"Property"
+			],
+			[
+				"Conn",
+				"ConnectionString"
+			],
+			[
+				"DATa",
+				"DataTable"
+			],
+			[
+				"Pic",
+				"PicFiles"
+			],
+			[
+				"fil",
+				"FileInfo"
+			],
+			[
+				"su",
+				"substring"
+			],
+			[
+				"r",
+				"R_playgroud"
+			],
+			[
+				"mana",
+				"manager-jmx"
+			],
+			[
+				"manager",
+				"manager-gui"
+			],
+			[
+				"user",
+				"username"
+			],
+			[
+				"bo",
+				"BodyHandlers"
+			],
+			[
+				"u",
+				"URI"
+			],
+			[
+				"htt",
+				"HttpResponse"
+			],
+			[
+				"h",
+				"HttpRequest"
+			],
+			[
+				"Ht",
+				"HttpClient"
+			],
+			[
+				"N",
+				"Name"
+			],
+			[
+				"Exe",
+				"ExecuteNonQuery"
+			],
+			[
+				"Sto",
+				"StoreMasterData"
+			],
+			[
+				"comm",
+				"CommandText"
+			],
+			[
+				"Ac",
+				"ActiveStoresSheet"
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "compose_flask.sublime-project",
+			"settings":
+			{
+				"buffer_size": 45,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"tog",
+				"Toggle Comment"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				":w",
+				":w - Save"
+			],
+			[
+				":e ",
+				"Snippet: Lorem ipsum"
+			]
+		],
+		"width": 0.0
+	},
+	"console":
+	{
+		"height": 157.0,
+		"history":
+		[
+			"import urllib.request,os,hashlib; h = '6f4c264a24d933ce70df5dedcf1dcaee' + 'ebe013ee18cced0ef93d5f746d80ef60'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/D/Source/Repos/docker/compose_flask"
+	],
+	"file_history":
+	[
+		"/D/Source/Repos/docker/compose_flask/compose_flask.sublime-project",
+		"/D/Source/Repos/MSAL Tutorial/MSAL Tutorial/json/sites_id_lists_id_items_id.json",
+		"/D/Source/Repos/MSAL Tutorial/MSAL Tutorial/json/sites_id_lists_id_items.json",
+		"/C/Users/eskov/start-jupyterlab.ps1",
+		"/C/Users/eskov/AppData/Local/Packages/Microsoft.WindowsTerminal_8wekyb3d8bbwe/LocalState/settings.json",
+		"/D/Source/Repos/WeatherMicroservice/WeatherMicroservice.csproj",
+		"/C/Users/eskov/MyDefaultAppAssociations.xml",
+		"/D/Source/Repos/COVID-19/README.md",
+		"/D/OneDrive - ESC/Documents/Graph Groups.json",
+		"/D/Source/Repos/R-playgroud/data_preprocessing_template.R",
+		"/D/Source/Repos/R-playgroud/README.md",
+		"/D/Source/Repos/R-playgroud/.gitignore",
+		"/C/Source/Repos/JAMS/Get-ADDealers.ps1",
+		"/C/Source/Repos/JAMS/jams.configuration.json",
+		"/C/Users/edskov/OneDrive - ESC/AppData/apache-tomcat-9.0.31/logs/catalina.2020-06-25.log",
+		"/D/OneDrive - ESC/AppData/apache-tomcat-9.0.31/webapps/ROOT/WEB-INF/web.xml",
+		"/D/Source/Repos/python/mlvenv/legend.py",
+		"/D/OneDrive - ESC/AppData/apache-tomcat-9.0.31/logs/catalina.2020-06-25.log",
+		"/D/Source/Repos/python/mlvenv/limits.py",
+		"/D/OneDrive - ESC/AppData/apache-tomcat-9.0.31/webapps/manager/WEB-INF/web.xml",
+		"/D/Source/Repos/python/mlvenv/logistic_regression.py",
+		"/D/Source/Repos/python/mlvenv/covid_one.py",
+		"/D/Source/Repos/python/mlvenv/regression_template.py",
+		"/D/Source/Repos/python/mlvenv/covid_two.py",
+		"/D/OneDrive - ESC/AppData/apache-tomcat-9.0.31/conf/tomcat-users.xml",
+		"/D/OneDrive - ESC/AppData/apache-tomcat-9.0.31/webapps/manager/WEB-INF/WEB-INF",
+		"/D/Source/Repos/python/mlvenv/poly_regression.py",
+		"/D/Source/Repos/python/mlvenv/pyvenv.cfg",
+		"/C/Source/Repos/python/mlvenv/pyvenv.cfg",
+		"/C/Source/Repos/python/mlvenv/svr_regression.py",
+		"/C/Source/Repos/python/mlvenv/Scripts/Activate.ps1",
+		"/D/Source/Repos/python/mlvenv/SFDC_Limits.json",
+		"/D/Source/Repos/python/mlvenv/titanic.py",
+		"/C/Source/Repos/powershell/SQLServerUtil/Invoke-ContainerFilePreprocess.ps1",
+		"/C/Source/Repos/powershell/SQLServerUtil/Invoke-ContainerFileProcess.ps1",
+		"/D/Source/Repos/python/read_serial.py",
+		"/D/Data/R_playgroud/Ed Regresses.R",
+		"/D/Data/R_playgroud/SVR_Regression.R",
+		"/D/Data/R_playgroud/covid_example.csv",
+		"/D/Source/Repos/python/mlvenv/svr_regression.py",
+		"/C/Source/Repos/powershell/SQLServerUtil/data/Red_Wing_Import_Status_Report_20200513104523.csv",
+		"/C/Source/Repos/powershell/.gitignore",
+		"/D/Source/Repos/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/05-07-2020.csv",
+		"/D/Source/workspace_v10/ProjectUn/Read_Com3.ps1",
+		"/D/Source/Repos/COVID-19/csse_covid_19_data/csse_covid_19_daily_reports_us/*05-07*",
+		"/C/Source/Repos/Marketing/Get-StoreReport.ps1",
+		"/C/Source/Repos/Marketing/Invoke-MassMailing.ps1",
+		"/C/Source/Repos/Marketing/New-MailingManifest.ps1",
+		"/C/Source/Repos/Marketing/Load-StoreData.ps1",
+		"/C/Source/Repos/powershell/.gitinit",
+		"/C/Source/Repos/POContainer/temp.csv",
+		"/C/Source/Repos/POContainer/Invoke-ContainerFilePreprocess.ps1",
+		"/C/Source/Repos/POContainer/POContainerXref.json",
+		"/C/Source/Repos/POContainer/data/Red_Wing_Import_Status_Report_20200429094653.csv",
+		"/D/Source/Repos/powershell-src/Connect-SPTeamSite.ps1",
+		"/D/Source/Repos/powershell-src/round2.ps1",
+		"/D/Source/Repos/powershell-src/EnableSideLoading.ps1",
+		"/D/Source/Repos/powershell-src/Get-PictureFilesCSV.ps1",
+		"/C/Users/eskov/Go-EscWeb.ps1",
+		"/D/Source/Repos/COVID-19/csse_covid_19_data/csse_covid_19_time_series/time_series_covid19_confirmed_global.csv",
+		"/C/Users/eskov/test_data.csv",
+		"/D/Source/Repos/PowerShell/README.md",
+		"/D/Source/Repos/powershell-src/images.csv",
+		"/D/Source/Repos/powershell-src/Get-ChangedDiagrams.ps1",
+		"/D/Source/Repos/powershell-src/FileObject.cs",
+		"/D/Source/Repos/powershell-src/New-Activity.ps1",
+		"/D/Source/Repos/powershell-src/GenerateDailyReport.ps1",
+		"/D/Source/Repos/powershell-src/Get-UserADGroups.ps1",
+		"/C/Source/Repos/elsdev/.gitignore",
+		"/C/Users/edskov/helper.java",
+		"/C/Source/Repos/cunning-fox/sfdx-maria/sfdx-chan/.gitignore",
+		"/C/Source/Repos/elsdev/mdapipackage/package.xml",
+		"/C/Users/eskov/Stop-Tomcat.ps1",
+		"/C/Source/Repos/geolocation/.forceignore",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountLocator/AccountLocator.cmp",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountMap/AccountMapController.js",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountMap/AccountMap.cmp",
+		"/C/Source/Repos/geolocation/.gitignore",
+		"/C/Source/Repos/geolocation/config/project-scratch-def.json",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountList/AccountList.cmp",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountList/AccountListController.js",
+		"/C/Source/Repos/geolocation/force-app/main/default/classes/AccountSearchController.cls",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountsLoaded/AccountsLoaded.evt",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountSearch/AccountSearch.cmp",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountSearch/AccountSearchController.js",
+		"/C/Source/Repos/geolocation/force-app/main/default/aura/AccountSearch/AccountSearchHelper.js",
+		"/C/Users/eskov/Start-R.ps1",
+		"/D/Source/Repos/geolocation/config/project-scratch-def.json",
+		"/C/Users/eskov/Invoke-Tomcat.ps1",
+		"/C/Users/eskov/Invoke-R.ps1",
+		"/D/OneDrive - ESC/AppData/apache-maven-3.6.3/conf/settings.xml",
+		"/D/Source/Repos/java_playgroud/.gitignore",
+		"/D/Source/Repos/json-simple/build.xml",
+		"/D/Source/Repos/java_playgroud/http/build.xml",
+		"/D/Source/Repos/java_playgroud/http/scr/main/java/com/eskoviak/httpc/Httpc.java",
+		"/D/OneDrive - ESC/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/D/OneDrive - ESC/Documents/PowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Source/Repos/java_playgroud/.gitignore",
+		"/C/Source/Repos/EMP-Connector/apex/createCastStreamChannel.apex",
+		"/C/Source/Repos/EMP-Connector/src/main/java/com/salesforce/emp/connector/example/DevLoginExample.java",
+		"/C/Source/Repos/EMP-Connector/README.md",
+		"/C/Source/Repos/EMP-Connector/Get_EMPConnetion.ps1",
+		"/C/Source/Repos/EMP-Connector/apex/createCasePushTopic.apex",
+		"/C/Source/Repos/EMP-Connector/apex/createCasePullTopic.apex",
+		"/C/Source/Repos/EMP-Connector/elsdev-info.txt",
+		"/D/Source/Repos/EMP-Connector/README.md",
+		"/D/Source/Repos/EMP-Connector/Get_EMPConnetion.ps1",
+		"/D/Users/edskov/OneDrive - ESC/Documents/WindowsPowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Users/eskov/path.txt",
+		"/D/Users/edskov/OneDrive - ESC/Documents/PowerShell/Microsoft.PowerShell_profile.ps1",
+		"/C/Source/Repos/elsdev/sfdx-project.json",
+		"/C/Source/Repos/java_playgroud/build.xml",
+		"/C/Source/Repos/java_playgroud/myManifest",
+		"/C/Source/Repos/java_playgroud/src/oata/HelloWorld.java",
+		"/C/Source/Repos/java_playgroud/SetAntPath.ps1",
+		"/C/Source/Repos/brave-goat/sfdx-project.json",
+		"/C/Source/Repos/EMP-Connector/src/main/java/com/salesforce/emp/connector/BayeuxParameters.java",
+		"/C/Source/Repos/EMP-Connector/src/main/java/com/salesforce/emp/connector/EmpConnector.java",
+		"/C/Source/Repos/EMP-Connector/src/main/java/com/salesforce/emp/connector/LoginHelper.java",
+		"/C/Users/edskov/forecast.js",
+		"/C/Source/Repos/javascript_playgroud/forecast.js",
+		"/C/Users/eskov/Set-AzFileShare.ps1",
+		"/D/Source/Repos/com.eskoviak-angular/projects/pythonpage/staticESCPage/UnderConstruction/__init__.py",
+		"/D/Source/Repos/tmp/eskoviak.com/eskoviak.com.csproj",
+		"/D/Source/Repos/tmp/eskoviak.com/Startup.cs",
+		"/D/Source/Repos/dotnet_playgroud/dotnet3-angular-primer/ClientApp/src/environments/environment.ts",
+		"/D/Source/Repos/dotnet_playgroud/dotnet3-angular-primer/ClientApp/angular.json",
+		"/D/Source/Repos/dotnet_playgroud/dotnet3-angular-primer/ClientApp/src/app/nav-menu/nav-menu.component.ts"
+	],
+	"find":
+	{
+		"height": 27.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "compose_flask.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 45,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								0,
+								0
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax"
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 27.0
+	},
+	"input":
+	{
+		"height": 39.3333333333
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "compose_flask.sublime-project",
+	"replace":
+	{
+		"height": 50.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": false,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 268.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
