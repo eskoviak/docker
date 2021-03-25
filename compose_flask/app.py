@@ -13,7 +13,7 @@ def hello():
 
 @app.route('/about')
 def about():
-    return 'This is a simple app to demonstrate the use of a composed docker stack'
+    return 'This is a simpleton app to demonstrate the use of a composed docker stack'
 
 if __name__ == "__main__":
     app.run(host="0.0.0.0", debug=True)
